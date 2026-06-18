@@ -51,10 +51,8 @@ Before running any animation, install:
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/<your-username>/manim-animations.git
-cd manim-animations
-```
+git clone https://github.com/Taaviikivii/manim-animation.git
+cd manim-animation
 
 ### Create and Activate a Virtual Environment
 
