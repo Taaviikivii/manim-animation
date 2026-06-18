@@ -10,6 +10,12 @@ This repository documents my journey learning Manim while exploring mathematical
 
 Rendered animations are available in the `renders` directory.
 
+## Preview
+
+### Graph Animation
+
+![Graph Animation](renders/GraphAnimation.gif)
+
 ### Included Animations
 
 * Graph Animation
