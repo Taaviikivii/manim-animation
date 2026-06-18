@@ -51,7 +51,8 @@ Before running any animation, install:
 
 ### Clone the Repository
 
-```git clone https://github.com/Taaviikivii/manim-animation.git
+```
+git clone https://github.com/Taaviikivii/manim-animation.git
    cd manim-animation
 ```
 
